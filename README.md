@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
 # Vikas's Profile
-Hello and welcome to my GitHub profile! Vikas here, an ambitious, brazen, and inventive data science enthusiast. I'm actively looking for chances in the field where I can apply my talents and knowledge to make a difference.
+Hi, I'm Vikas and welcome to my GitHub profile! an ambitious, brazen, and inventive data science enthusiast. I'm actively looking for chances in the field where I can apply my talents and knowledge to make a difference.
 
 # About Me
 
@@ -14,5 +14,10 @@ In addition, I have strong problem-solving and team-building abilities that I ha
 Please contact me. I'm looking forward to meeting other professionals with similar interests and aspirations. Let's connect and see how we can work together and learn from one another!
 
 You can reach me at:
-* **LinkedIn**: https://www.linkedin.com/in/vikas-kumar6
+* **LinkedIn**: 
 * **Email**: er.vikas2268@gmail.com
+
+* ## 🔗 Links
+[![linkedin](https://www.linkedin.com/in/vikas-kumar6)](https://www.linkedin.com/)
+[![twitter](er.vikas2268@gmail.com)](https://gmail.com/)
+
